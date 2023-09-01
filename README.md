@@ -39,5 +39,7 @@ Feel free to reach out to me via email at Vishalkumarsingh162@gmail.com or send 
 
 Thanks for visiting my GitHub profile! 😄
 
+[![](https://visitcount.itsvg.in/api?id=imvishalkrsingh&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ![vishal](https://github.com/imvishalkrsingh/Readme.md/assets/116426694/2d477793-55e9-4d28-ab14-9d0b75d1e364)
 
