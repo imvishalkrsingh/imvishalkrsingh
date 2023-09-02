@@ -38,18 +38,18 @@ I'm always open to connecting with fellow developers and tech enthusiasts. Let's
   - Issuing Organization: Amazon Web Services (AWS)
   - Date of Certification: May 2023
   - Credential ID: ------
-  - [Verify Certification]((https://www.credly.com/go/Y1DkEFyv))
+  - [Verify Certification] ::[link to Verify]((https://www.credly.com/go/Y1DkEFyv))
 
 - **Oracle Certified: Oracle Cloud Infrastructure 2022 Certified Foundations Associate**
   - Issuing Organization: Oracle
   - Date of Certification: January 2023
   - Credential ID: -------
-  - [Verify Certification] :: (https://catalog-education.oracle.com/pls/certview/sharebadge?id=4B2ABA9AF7FB3C582D1D0F32067EBEE0412F874204C082C25C1081020DA0FEB1)
+  - [Verify Certification] :: [link to Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4B2ABA9AF7FB3C582D1D0F32067EBEE0412F874204C082C25C1081020DA0FEB1)
 
 - **MERN Stack Development Certification**
   - Issuing Organization: CodeHelp by Love Babbar
   - Date of Certification: July 2023
-  - [Verify Certification] :: (https://learn.thecodehelp.in/share-certificate?serialno=HGEUH6AE)
+  - [Verify Certification] :: [link to Verify](https://learn.thecodehelp.in/share-certificate?serialno=HGEUH6AE)
 
 
 ## 📫 Contact Me
