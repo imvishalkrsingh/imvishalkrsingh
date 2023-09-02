@@ -1,4 +1,3 @@
-# Readme.md
 # Hello, I'm Vishal Kumar Singh 👋
 
 I'm a passionate software developer and a cloud computing enthusiast pursuing my MCA in Cloud Computing at Sage University, Bhopal. Welcome to my GitHub profile!
@@ -32,6 +31,26 @@ I'm always open to connecting with fellow developers and tech enthusiasts. Let's
 - **Bachelor of Computer Applications (BCA)**
   - IGNOU, New Delhi
   - Graduated: June 2021
+
+## 📜 Certifications
+
+- **Certified AWS Academy Cloud Foundations**
+  - Issuing Organization: Amazon Web Services (AWS)
+  - Date of Certification: May 2023
+  - Credential ID: ------
+  - [Verify Certification]((https://www.credly.com/go/Y1DkEFyv))
+
+- **Oracle Certified: Oracle Cloud Infrastructure 2022 Certified Foundations Associate**
+  - Issuing Organization: Oracle
+  - Date of Certification: January 2023
+  - Credential ID: -------
+  - [Verify Certification] :: (https://catalog-education.oracle.com/pls/certview/sharebadge?id=4B2ABA9AF7FB3C582D1D0F32067EBEE0412F874204C082C25C1081020DA0FEB1)
+
+- **MERN Stack Development Certification**
+  - Issuing Organization: CodeHelp by Love Babbar
+  - Date of Certification: July 2023
+  - [Verify Certification] :: (https://learn.thecodehelp.in/share-certificate?serialno=HGEUH6AE)
+
 
 ## 📫 Contact Me
 
