@@ -38,7 +38,7 @@ I'm always open to connecting with fellow developers and tech enthusiasts. Let's
   - Issuing Organization: Amazon Web Services (AWS)
   - Date of Certification: May 2023
   - Credential ID: ------
-  - [Verify Certification] ::[link to Verify]((https://www.credly.com/go/Y1DkEFyv))
+  - [Verify Certification] :: [link to Verify]((https://www.credly.com/go/Y1DkEFyv))
 
 - **Oracle Certified: Oracle Cloud Infrastructure 2022 Certified Foundations Associate**
   - Issuing Organization: Oracle
