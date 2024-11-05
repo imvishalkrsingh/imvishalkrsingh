@@ -1,6 +1,8 @@
 # Hello, I'm Vishal Kumar Singh 👋
 
-I’m a passionate software developer and a cloud computing enthusiast. I have completed my MCA in Cloud Computing at Sage University, Bhopal. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
+
+I’m a passionate software developer and a cloud computing enthusiast. I have completed my MCA in Cloud Computing at Sage University, Bhopal. 
 
 🔭 I'm currently working on various web development projects, including MERN stack applications.
 🌱 I'm always learning and exploring new technologies, especially in the cloud computing domain.
